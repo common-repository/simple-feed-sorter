@@ -1,0 +1,56 @@
+.simple-feed-sorter p,
+.simple-feed-sorter ul {
+	margin: 0;
+}
+
+.simple-feed-sorter li, 
+.admin_css_sfs li {
+	list-style: none;
+	background: #F7F6F6;
+	padding: 10px 15px;
+	border: 1px solid #E8E8E8;
+	margin-bottom: 5px;
+	
+	-webkit-box-shadow: 1px 1px 0 0 white inset, -1px -1px 0 0 white inset;
+	-moz-box-shadow: 1px 1px 0 0 white inset, -1px -1px 0 0 white inset;
+	box-shadow: 1px 1px 0 0 white inset, -1px -1px 0 0 white inset;
+	
+}.simple-feed-sorter li:hover, 
+.admin_css_sfs li:hover {
+	background: #f9f9f9;
+}
+
+.simple-feed-sorter ul li a.author,
+.admin_css_sfs li a.author {
+	display: block;
+	color: #000;
+	font-weight: bold;
+	font-size: 0.9em;
+	border-bottom: 1px solid #E4E4E4;
+	text-decoration: none;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	-webkit-box-shadow: 0 1px 0 0 white;
+	-moz-box-shadow: 0 1px 0 0 white;
+	box-shadow: 0 1px 0 0 white;
+}.simple-feed-sorter ul li a.author:hover,
+.admin_css_sfs li a.author:hover{
+	border-bottom: 1px solid black;
+	-webkit-box-shadow: 0 -1px 0 0 white inset;
+	-moz-box-shadow: 0 -1px 0 0 white inset;
+	box-shadow: 0 -1px 0 0 white inset;
+}
+
+span.sfs-date {
+	color: #b0b0b0;
+	font-size: 11px;
+}
+
+span.sfs-image {
+	float: right;	
+}
+
+.simple-feed-sorter li p,
+.admin_css_sfs li p {
+	color: #707070;
+}

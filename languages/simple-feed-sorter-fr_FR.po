@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Feed Sorter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 12:13+0100\n"
+"PO-Revision-Date: 2012-05-05 12:14+0100\n"
+"Last-Translator: Lihwem <dev@dev.net>\n"
+"Language-Team: GeekPress <contact@geekpress.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:201
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:568
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:60
+msgid "Name"
+msgstr "Nom"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:202
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:568
+msgid "URL"
+msgstr "URL"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:203
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:568
+msgid "Remove"
+msgstr "Supprimer"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:220
+msgid "New Feed"
+msgstr "Nouveau Flux"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:437
+msgid "\\a\\t"
+msgstr "\\à"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:477
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:18
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:54
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:68
+msgid "Settings"
+msgstr "Réglages"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:482
+msgid "Total number of item to display"
+msgstr "Nombre total d'item à afficher"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:491
+msgid "Total number of words to display"
+msgstr "Nombre total de mots à afficher"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:498
+msgid "Do you want to"
+msgstr "Vous voulez"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:502
+msgid "Display author's name before title"
+msgstr "Afficher l'auteur avant le titre"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:506
+msgid "Display date of publication"
+msgstr "Afficher la date de publication"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:510
+msgid "Display icons of twitter or rss feed"
+msgstr "Afficher l'icône Twitter ou RSS"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:516
+msgid "Theme"
+msgstr "Thème"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:523
+msgid "Do not use theme"
+msgstr "Ne pas utiliser de thème"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:532
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:57
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/inc/widget.php:32
+msgid "Feeds"
+msgstr "Flux"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:535
+msgid "List of Feeds"
+msgstr "Liste des flux"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:554
+msgid "Add new Feed"
+msgstr "Ajouter un nouveau flux"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:556
+msgid "Save Changes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/simple-feed-sorter.php:582
+msgid "Preview"
+msgstr "Aperçu"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:29
+msgid "For more information"
+msgstr "Pour plus d'informations"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:30
+msgid "Documentation"
+msgstr "Documentation"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:43
+msgid "Simple Feed Sorter is a plugin which takes a list of Atom feed and merge them to make a regrouped list of feed defined by the number of item you want to display."
+msgstr "Simple Feed Sorter est une extension qui permet de fusionner plusieurs flux RSS en un seul. Le tout est regroupé dans une nouvelle liste dont le nombre total d'item est défini en fonction du nombre que vous avez choisi."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:44
+msgid "You have the possibility to get every feed you want if it matches to a correct URL. You can access to twitter feeds, and blogs, feeds, etc..."
+msgstr "Vous avez la possibilité d'afficher n'importe quel flux du moment que l'adresse URL est correcte. Vous pouvez fournir un flux provenant de twitter, d'un blog, etc..."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:45
+msgid "Example of a feed from a twitter account"
+msgstr "Exemple d'un flux provenant d'un compte twitter"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:55
+msgid "You can display author, date and an icon as you want. You can also choose from the list of predefined theme to display the list with style."
+msgstr "Vous pouvez configurer l'affichage de l'auteur, de la date de publication et d'une icône. Vous pouvez également choisir parmi la liste de thème prédéfini pour afficher la liste avec un style."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:58
+msgid "The name field allows you to write the name you want to display before the title entry.<br />The URL must be a valid URL in order to process the information. If it's not, the field you filled will be deleted. The URL must reference a valid RSS feed."
+msgstr "Le champ du nom permet d'écrire le nom que vous souhaitez afficher avant  le titre de l'item. L'URL doit être une adresse valide afin de traiter l'information. Si elle ne l'est pas, le champ que vous avez rempli sera supprimé. L'URL doit faire référence à un flux RSS valide."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:59
+msgid "Here an example of valid feed"
+msgstr "Ci-dessous un exemple d'un flux valide"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:67
+msgid "You can display your feed on any page or article using a shortcode : [SimpleFeed]."
+msgstr "Vous pouvez afficher votre flux sur un article ou une page à l'aide du shortcode : [SimpleFeed]."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:69
+msgid "<strong>width</strong> : in px, the width of the container"
+msgstr "<strong>width</strong> : en px, la largeur du conteneur"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:70
+msgid "<strong>items</strong> : the number if item to display in the container"
+msgstr "<strong>items</strong> : le nombre d'item à afficher dans le conteneur"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/admin/contextual-help.php:72
+msgid "Here an example of a valid shortcode"
+msgstr "Ci-dessous un exemple d'un shortcode valide"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/inc/widget.php:8
+msgid "Display the feed defined in the sidebar"
+msgstr "Afficher le flux dans la sidebar"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/inc/widget.php:40
+msgid "Title"
+msgstr "Titre"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/simple-feed-sorter/inc/widget.php:41
+msgid "Width"
+msgstr "Largeur"
+
